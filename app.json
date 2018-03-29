@@ -7,8 +7,8 @@
         "Uptime",
         "Robot"
     ],
-    "website": "https://github.com/nerdbaggy/StatusPage",
-    "repository": "https://github.com/nerdbaggy/StatusPage",
+    "website": "https://github.com/samuelgaocn/statusuptime",
+    "repository": "https://github.com/samuelgaocn/statusuptime",
     "env": {
         "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
     }
